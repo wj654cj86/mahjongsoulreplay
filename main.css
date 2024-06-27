@@ -1,0 +1,37 @@
+#board {
+	position: relative;
+	width: 1300px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+textarea {
+	position: absolute;
+	width: 600px;
+	top: 10px;
+	bottom: 10px;
+}
+
+#encodingText {
+	left: 10px;
+}
+
+#decodingText {
+	right: 10px;
+}
+
+button {
+	position: absolute;
+	height: 60px;
+	left: 620px;
+	right: 620px;
+}
+
+#decodebutton {
+	top: 10px;
+}
+
+#encodebutton {
+	bottom: 10px;
+}
